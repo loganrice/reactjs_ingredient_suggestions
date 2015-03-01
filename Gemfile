@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'font-awesome-rails'
 gem 'haml'
 gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
